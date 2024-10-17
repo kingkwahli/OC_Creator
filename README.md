@@ -1,4 +1,4 @@
-# OpneCore EFI Creator
+# OpenCore EFI Creator
 ## OpenCore EFI and config.plist generation utility (updated)
 
 I took the original OC Gen-X and am now updating the Kexts and Drivers and adding more options to the app.
