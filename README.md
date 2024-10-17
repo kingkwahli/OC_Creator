@@ -1,19 +1,19 @@
-# Opencore Gen-X
-## Desktop Opencore EFI and config.plist generation utility
+# OpneCore EFI Creator
+## OpenCore EFI and config.plist generation utility (updated)
 
-OC Gen-X is a utility application to create a pre-defined config.plist and a EFI Folder to the users Desktop. Based on the system type selected by the user.
+I took the original OC Gen-X and am now updating the Kexts and Drivers and adding more options to the app.
 
-The config.plist generated is based off the architectures in the Dortania guide.
-i.e: Haswell, Skylake, Coffeelake etc..
+OC Creator is a utility application to create a pre-defined config.plist and a EFI Folder, saved to the user's desktop.
+
+The config.plist generated is based off the architectures in dortania's OpenCore Install Guide.
 
 ### Important Information (Please read below)
-This app is only for desktop hackintosh machines, it does not have any pre-defined settings for laptop hackintosh machines.
+This app is only for desktop Hackintoshes, it does not (currently, but coming soon) have any pre-defined settings for laptops.
 
 ### Credits
-* App is made and designed and copyrighted by *Pavo-IM*
-* *Acidanthera Development Team* for Opencore (This app is not endorsed or promoted by Acidanthera)
-* *Dortania Team* for the Opencore Guide.
-* *Hackintosh x86 discord community* for intial testing and logo's
-* Minor contributions from *@StephenHeaps*
+* App is made and designed and copyrighted by *Naazim Apps, originally by Pavo-IM*
+* *Acidanthera Development Team* for their hard work on OpenCore. (Acidanthera is not affiliated with this app)
+* *Dortania * for the OpenCore Isntall Guide.
+* *macOSicons* for icon.
 
 
