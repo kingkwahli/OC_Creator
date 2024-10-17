@@ -1,5 +1,7 @@
 # OpenCore EFI Creator
 ## OpenCore EFI and config.plist generation utility (updated)
+### Currently at OpenCore version 1.0.3
+-OpenCore version will always match Lilu, WhateverGreen, and VirtualSMC versions.
 
 I took the original OC Gen-X and am now updating the Kexts and Drivers and adding more options to the app.
 
