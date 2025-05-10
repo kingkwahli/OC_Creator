@@ -17,7 +17,7 @@ This tool is a continuation and enhancement of the original OC Gen-X, with updat
 
 ## Credits
 
-- **Naazim Apps** – App development and design. This tool is a continuation of the work originally started by Pavo-IM.
+- **NaazimCo** – App development and design. This tool is a continuation of the work originally started by Pavo-IM.
 - **Acidanthera Development Team** – For their incredible work on OpenCore (Note: Acidanthera is not affiliated with this app).
 - **Dortania** – For providing the comprehensive [OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/).
 - **macOSicons** – For providing the app icon.
